@@ -1,4 +1,4 @@
-# HR_ANALYTICS_DASHBOARD
+PowerBI Dashboard Project
 I'm excited to share my project - the HR Analytics Dashboard developed with Power BI! Using a dummy dataset, this dashboard provides a comprehensive view of employee attrition rates, demonstrating how data visualization can transform HR analytics.
 🔍 Why This Matters: Understanding the factors behind employee attrition is essential for fostering a stable and productive workforce. With insights derived from the dashboard, HR teams can:
 📉 Reduce Turnover: Pinpoint the reasons for employee departures and develop strategies to mitigate them.
